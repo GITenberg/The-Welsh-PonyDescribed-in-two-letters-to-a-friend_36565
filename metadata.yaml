@@ -1,0 +1,31 @@
+_repo: The-Welsh-PonyDescribed-in-two-letters-to-a-friend_36565
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36565-h/images/cover.png
+creator:
+  author:
+    agent_name: Dargan, Olive Tilford
+    aliases:
+    - Tilford, Olive
+    - Burke, Fielding
+    birthdate: 1869
+    deathdate: 1968
+    gutenberg_agent_id: '9123'
+    url: http://www.gutenberg.org/2009/agents/9123
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
+description: ''
+gutenberg_issued: '2011-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36565'
+  lccn: '13005527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Ponies'
+title: The Welsh Pony, Described in two letters to a friend
+url: http://www.gutenberg.org/ebooks/36565
